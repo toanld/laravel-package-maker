@@ -24,7 +24,7 @@ All the `make` commands you use in your daily Laravel app development workflow b
 ```
 
 ## Install
-`composer require naoray/laravel-package-maker --dev`
+`composer require toanld/laravel-package-maker --dev`
 
 ## Usage
 - [laravel-package-maker](#laravel-package-maker)
