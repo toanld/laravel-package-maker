@@ -1,5 +1,5 @@
 {
-  "name": "naoray/laravel-package-maker",
+  "name": "toanld/laravel-package-maker",
   "description": "Get a package skeleton and all other `make` commands from laravel base for package development.",
   "type": "package",
   "license": "MIT",
